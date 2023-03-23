@@ -9,7 +9,7 @@ Frida consists of a server and a client. You need to set up a client for your ho
 The client recommended can be installed using pip:
 
 ```bash
-# It's recomended to use python3
+# It's recommended to use python3
 python3 -m pip install frida-tools
 ```
 
@@ -94,6 +94,13 @@ $ frida-ps -U
 In this task, we will provide you with an example `hookme.apk`. You need to hook the `onClickMe` method to force the app to print "Succeeded". This task is simple and we will provide step-by-step tutorials.
 
 #### Step1: Get and launch hookme.apk
+
+Install and launch the hookme.apk:
+
+```bash
+adb install hookme.apk
+adb shell am start -n com/example/hookme/.MainActivity
+```
 
 Please see the MainActivity of the app, If you want to print "Succeeded.", you need to make `this.m == 0`. This can be done by hooking the `onClickMe`.
 
