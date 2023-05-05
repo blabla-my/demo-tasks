@@ -1,1 +1,1 @@
-This repo contains demos about Frida, Xposed and Smalidea.
+This repo contains demos about Frida, Xposed, Smalidea and jeb-plugin.
