@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab7_warmup</string>
+    <string name="edit_flag">INPUT YOUR FLAG</string>
+    <string name="button_check">CHECK</string>
+</resources>
