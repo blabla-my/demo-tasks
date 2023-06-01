@@ -1,0 +1,5 @@
+# hide the source code
+*.c
+*.asm
+anti-decomlilation/
+anti-disassembly/
