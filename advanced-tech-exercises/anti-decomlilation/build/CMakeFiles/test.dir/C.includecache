@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/anti_debug.h
+
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/test.c
+stdio.h
+-
+string.h
+-
+anti_debug.h
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/anti_debug.h
+

@@ -1,0 +1,3 @@
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/build/CMakeFiles/edit_cache.dir
+/mnt/c/master/pore/repos/demo-tasks/advanced-tech-exercises/anti-decomlilation/build/CMakeFiles/test.dir
